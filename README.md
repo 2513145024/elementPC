@@ -1,0 +1,2 @@
+# elementPC
+这是一个vue2结合elementUI的后台管理系统
